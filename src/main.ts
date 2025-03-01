@@ -25,7 +25,7 @@ import './theme/variables.css';
 
 import { defineCustomElements } from '@ionic/pwa-elements/loader';
 
-//waza
+
 const app = createApp(App)
   .use(IonicVue)
   .use(router);
